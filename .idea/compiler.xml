@@ -9,11 +9,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ProjectManager" />
+        <module name="MovieManager" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="MovieManager" target="1.5" />
+      <module name="ProjectManager" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
